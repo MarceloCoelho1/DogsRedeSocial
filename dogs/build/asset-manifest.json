@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.35b00bdc.chunk.css",
+    "main.js": "/static/js/main.f418ce58.chunk.js",
+    "main.js.map": "/static/js/main.f418ce58.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.72b32d9f.js",
+    "runtime-main.js.map": "/static/js/runtime-main.72b32d9f.js.map",
+    "static/js/2.8e16a9c9.chunk.js": "/static/js/2.8e16a9c9.chunk.js",
+    "static/js/2.8e16a9c9.chunk.js.map": "/static/js/2.8e16a9c9.chunk.js.map",
+    "static/js/3.3a054638.chunk.js": "/static/js/3.3a054638.chunk.js",
+    "static/js/3.3a054638.chunk.js.map": "/static/js/3.3a054638.chunk.js.map",
+    "static/css/4.39e776f4.chunk.css": "/static/css/4.39e776f4.chunk.css",
+    "static/js/4.8719d564.chunk.js": "/static/js/4.8719d564.chunk.js",
+    "static/js/4.8719d564.chunk.js.map": "/static/js/4.8719d564.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d12d42c6396878269debdc27ff278ded.js": "/precache-manifest.d12d42c6396878269debdc27ff278ded.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/4.39e776f4.chunk.css.map": "/static/css/4.39e776f4.chunk.css.map",
+    "static/css/main.35b00bdc.chunk.css.map": "/static/css/main.35b00bdc.chunk.css.map",
+    "static/js/3.3a054638.chunk.js.LICENSE.txt": "/static/js/3.3a054638.chunk.js.LICENSE.txt",
+    "static/media/adicionar.c6e243c7.svg": "/static/media/adicionar.c6e243c7.svg",
+    "static/media/dogs-footer.220b6e5e.svg": "/static/media/dogs-footer.220b6e5e.svg",
+    "static/media/dogs.745f4ff4.svg": "/static/media/dogs.745f4ff4.svg",
+    "static/media/enviar.a668a9cc.svg": "/static/media/enviar.a668a9cc.svg",
+    "static/media/estatisticas.5ce6ac31.svg": "/static/media/estatisticas.5ce6ac31.svg",
+    "static/media/feed.95db7478.svg": "/static/media/feed.95db7478.svg",
+    "static/media/Login.module.css": "/static/media/login.824d7d85.jpg",
+    "static/media/sair.efa03022.svg": "/static/media/sair.efa03022.svg",
+    "static/media/Header.module.css": "/static/media/usuario.78901e1f.svg",
+    "static/media/PhotoContent.module.css": "/static/media/visualizacao-black.9b449f44.svg",
+    "static/media/FeedPhotosItem.module.css": "/static/media/visualizacao.b23c59ac.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72b32d9f.js",
+    "static/js/3.3a054638.chunk.js",
+    "static/css/main.35b00bdc.chunk.css",
+    "static/js/main.f418ce58.chunk.js"
+  ]
+}
